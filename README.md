@@ -42,6 +42,6 @@ While it is easy.
 
 Screenshots:
 
-![1](\screenshots\1.jpg)
+![1](<https://raw.githubusercontent.com/MikeHongweiBai/react-native-demo-waterfall/master/screenshots/1.jpg>)
 
-![2](\screenshots\2.jpg)
+![2](<https://raw.githubusercontent.com/MikeHongweiBai/react-native-demo-waterfall/master/screenshots/2.jpg>)
