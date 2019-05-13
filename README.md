@@ -42,6 +42,4 @@ While it is easy.
 
 Screenshots:
 
-![1](<https://raw.githubusercontent.com/MikeHongweiBai/react-native-demo-waterfall/master/screenshots/1.jpg>)
-
 ![3](<https://raw.githubusercontent.com/MikeHongweiBai/react-native-demo-waterfall/master/screenshots/3.gif>)
