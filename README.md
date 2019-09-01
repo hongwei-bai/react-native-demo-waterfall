@@ -11,18 +11,18 @@ See official document from Facebook:
 
 My blog:
 
-[Start A React Native Project](<https://mikehongweibai.github.io/2019/05/08/Start-A-React-Native-Project/>)
+[Start A React Native Project](<https://hongweibai4.github.io/2019/05/08/Start-A-React-Native-Project/>)
 
 
 
 My related posts about React native:
 
-- [Start A React Project with npm Way](<https://mikehongweibai.github.io/2019/05/06/Start-A-React-Project-with-npm-Way/>)
+- [Start A React Project with npm Way](<https://hongweibai4.github.io/2019/05/06/Start-A-React-Project-with-npm-Way/>)
 
-- [Start A React Native Project](<https://mikehongweibai.github.io/2019/05/08/Start-A-React-Native-Project/>)
-- [React Native (Android) Development And Debug](<https://mikehongweibai.github.io/2019/05/08/React-Native-Android-Development-And-Debug/>)
-- [Essentials for React Native](<https://mikehongweibai.github.io/2019/05/09/Essentials-for-React-Native/>)
-- [React Native Development Problem Solving](<https://mikehongweibai.github.io/2019/05/10/React-Native-Development-Problem-Solving/>)
+- [Start A React Native Project](<https://hongweibai4.github.io/2019/05/08/Start-A-React-Native-Project/>)
+- [React Native (Android) Development And Debug](<https://hongweibai4.github.io/2019/05/08/React-Native-Android-Development-And-Debug/>)
+- [Essentials for React Native](<https://hongweibai4.github.io/2019/05/09/Essentials-for-React-Native/>)
+- [React Native Development Problem Solving](<https://hongweibai4.github.io/2019/05/10/React-Native-Development-Problem-Solving/>)
 
 
 
